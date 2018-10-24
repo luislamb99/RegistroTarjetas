@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "489516693613",
+    "firebase_url": "https://sicpe-pamplona.firebaseio.com",
+    "project_id": "sicpe-pamplona",
+    "storage_bucket": "sicpe-pamplona.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489516693613:android:7e9c826be3513af4",
+        "android_client_info": {
+          "package_name": "com.biotecnum.terminalwebsipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489516693613-enfknnngedplp7bggk7guk7rs2gf06i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biotecnum.terminalwebsipe",
+            "certificate_hash": "940400b29e00300c74c8490b4f0a16567377c722"
+          }
+        },
+        {
+          "client_id": "489516693613-53utt2otj1encmvkteu6oli648hvbggk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeTWTXyHMfaMFziaXLw42MmvD-U2a1Hqc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489516693613-53utt2otj1encmvkteu6oli648hvbggk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489516693613:android:59d37be8f23178aa",
+        "android_client_info": {
+          "package_name": "com.biotecnum.crearusuariossipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489516693613-vol0ov3auaqd4nqiesbsq477gb4banhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biotecnum.crearusuariossipe",
+            "certificate_hash": "940400b29e00300c74c8490b4f0a16567377c722"
+          }
+        },
+        {
+          "client_id": "489516693613-53utt2otj1encmvkteu6oli648hvbggk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeTWTXyHMfaMFziaXLw42MmvD-U2a1Hqc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489516693613-53utt2otj1encmvkteu6oli648hvbggk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489516693613:android:f2a39d86b9ad78bb",
+        "android_client_info": {
+          "package_name": "com.biotecnum.registrotarjetas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489516693613-a1bdo905vbtnj6g18to6juv20ubo1q7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biotecnum.registrotarjetas",
+            "certificate_hash": "940400b29e00300c74c8490b4f0a16567377c722"
+          }
+        },
+        {
+          "client_id": "489516693613-53utt2otj1encmvkteu6oli648hvbggk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeTWTXyHMfaMFziaXLw42MmvD-U2a1Hqc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489516693613-53utt2otj1encmvkteu6oli648hvbggk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
